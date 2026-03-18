@@ -124,8 +124,8 @@ sudo dnf install -y gtk3-devel gcc gcc-c++ kernel-devel pkg-config make hostapd 
 
 ## Installation
 
-    git clone https://github.com/lakinduakash/linux-wifi-hotspot
-    cd linux-wifi-hotspot
+    git clone https://github.com/lolsoundsus/linux-wifi-hotspot-vibe-edited
+    cd linux-wifi-hotspot-vibe-edited
 
     #build binaries
     make
