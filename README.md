@@ -41,11 +41,6 @@ Thanks for being part of the community and keeping Linux-WiFi-Hotspot going!
 ![screenshot](docs/A.png)
 
 
-### Command line help and documentation
-
-Read [Command line help and documentation here](src/scripts/README.md).
-
-If you only need the command line without GUI run `make install-cli-only` as the root user.
 
 ### Notes
 
@@ -123,34 +118,6 @@ After connecting to VPN, Open `wihotspot` GUI. Select the virtual interface crea
 
 ![image](docs/vpn.png)
 
-
-
-
-## Run on Startup
-The `wihotspot` GUI uses `create_ap` to create and manage access points. This service and core logic were originally created by
-[@oblique](http://github.com/oblique), and are now maintained in this
-repository.
-
-Start the hotspot service on startup (using your saved configuration) with:
-
-    systemctl enable create_ap
-
-
-
-
-
-## Contributing
-
-If you found a bug or you have an idea about improving this make an issue. Even a small contribution makes the open source world more beautiful.
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
-
-## Disclaimer
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/lakinduakash/linux-wifi-hotspot.svg)](https://starchart.cc/lakinduakash/linux-wifi-hotspot)
 
 
 ## License
