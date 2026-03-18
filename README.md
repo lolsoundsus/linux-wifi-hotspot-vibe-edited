@@ -1,5 +1,5 @@
 ## Linux Wifi Hotspot
-
+#### Edited by Big Pickle OpenCode
 ### What's new
 * Use aa-complain instead of complain to fix the permission issue for dnsmasq
 * Fix some 5Ghz band not working issue
