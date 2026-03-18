@@ -35,6 +35,8 @@ Thanks for being part of the community and keeping Linux-WiFi-Hotspot going!
 * Hide SSID
 * customize gateway IP address
 * Enable IEEE 80211n, IEEE 80211ac and IEEE 80211ax modes
+#### Updates
+* Auto channel selection 
 
 ![screenshot](docs/sc4.png)
 
