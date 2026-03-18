@@ -56,33 +56,6 @@ If you only need the command line without GUI run `make install-cli-only` as the
 - **Unable to allocate IP: firewalld issue:** Please check for potential fixes: [#209](https://github.com/lakinduakash/linux-wifi-hotspot/issues/209) [#166](https://github.com/lakinduakash/linux-wifi-hotspot/issues/166)
 
 ## Installation
-
-#### Debian/Ubuntu
-
-Download the Debian package from the latest [release](https://github.com/lakinduakash/linux-wifi-hotspot/releases/latest)
-
-**OR**
-Good news! I was able to restore keys, new versions will be available via the PPA
-```bash
-sudo add-apt-repository ppa:lakinduakash/lwh
-sudo apt update
-sudo apt install linux-wifi-hotspot
-
-```
-
-#### Arch based distributions
-
-Linux Wifi Hotspot is available as an [AUR package](https://aur.archlinux.org/packages/linux-wifi-hotspot/). You can install it manually or with your favorite AUR helper.
-For example, if you use `yay` you can do:
-`yay -S linux-wifi-hotspot`
-
-### Fedora based distributions
-copr based repo is available for Fedora 
-```bash
-sudo dnf copr enable zinix01/linux-wifi-hotspot
-sudo dnf install linux-wifi-hotspot 
-```
-
 ## Dependencies
 
 #### General
