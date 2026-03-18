@@ -38,7 +38,7 @@ Thanks for being part of the community and keeping Linux-WiFi-Hotspot going!
 #### Updates
 * Auto channel selection 
 
-![screenshot](docs/sc4.png)
+![screenshot](docs/A.png)
 
 
 ### Command line help and documentation
